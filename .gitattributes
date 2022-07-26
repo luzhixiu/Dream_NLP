@@ -1,0 +1,2 @@
+path_to_your_file !text !filter !merge !diff
+*.csv !text !filter !merge !diff
