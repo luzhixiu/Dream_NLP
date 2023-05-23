@@ -1,3 +1,3 @@
-train_4bins_6k_untailored_seq.csv filter=lfs diff=lfs merge=lfs -text
+
 path_to_your_file !text !filter !merge !diff
 *.csv !text !filter !merge !diff
